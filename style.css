@@ -1,0 +1,28 @@
+.logo {
+    height: 80px;
+    background-color: blue;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 25px;
+}
+
+.logo img {
+    max-height: 40px;
+
+
+
+}
+
+.form {
+    height: 80px;
+    background-color: red;
+}
+
+.banner {
+    height: 400px;
+    background-color: green;
+}
+
+body {
+    background-color: rgb(31, 31, 31) !important;
+}
